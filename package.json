@@ -1,0 +1,22 @@
+{
+  "name": "photoshop_http_client",
+  "version": "0.0.0",
+  "description": "photoshop_http_client\r =====================",
+  "main": "libs/request.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssddi456/photoshop_http_client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssddi456/photoshop_http_client/issues"
+  },
+  "homepage": "https://github.com/ssddi456/photoshop_http_client"
+}
